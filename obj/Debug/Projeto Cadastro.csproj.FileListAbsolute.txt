@@ -1,0 +1,7 @@
+D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\Curso C#\Projetos de Aula\Solution\Projeto Cadastro\bin\Debug\Projeto Cadastro.exe.config
+D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\Curso C#\Projetos de Aula\Solution\Projeto Cadastro\bin\Debug\Projeto Cadastro.exe
+D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\Curso C#\Projetos de Aula\Solution\Projeto Cadastro\bin\Debug\Projeto Cadastro.pdb
+D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\Curso C#\Projetos de Aula\Solution\Projeto Cadastro\obj\Debug\Projeto Cadastro.csprojResolveAssemblyReference.cache
+D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\Curso C#\Projetos de Aula\Solution\Projeto Cadastro\obj\Debug\Projeto Cadastro.csproj.CoreCompileInputs.cache
+D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\Curso C#\Projetos de Aula\Solution\Projeto Cadastro\obj\Debug\Projeto Cadastro.exe
+D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\Curso C#\Projetos de Aula\Solution\Projeto Cadastro\obj\Debug\Projeto Cadastro.pdb
